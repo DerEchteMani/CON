@@ -1,4 +1,4 @@
-# CON
+# Computer Organization and Networks
 
 - [CON](#con)
   - [System Verilog](#system-verilog)
